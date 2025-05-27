@@ -20,7 +20,7 @@ namespace ServiceUser.Data;
             new User
             {
                 Id = 1,
-                Username = "Georgie",
+                Username = "Georgi",
                 Email = "Georgie@domain.com",
                 PasswordHash = "hashed_password",
                 FirstName = "Georgie",
